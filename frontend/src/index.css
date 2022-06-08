@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "gilroy-bold", Helvetica, Arial;
+}
+
+html {
+  --dark: rgb(15, 15, 15);
+  --light: #fbe5e6;
+  --light-bg: #f4f4f4;
+  --muted: #707070;
+  --main-dark: #70255e;
+  --accent-purple: #c8cbf5;
+  --accent-pink: #fbe5e6;
+  --accent-green: #bad6bf;
+}
